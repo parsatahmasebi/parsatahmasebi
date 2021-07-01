@@ -1,5 +1,5 @@
 - Hi, I’m @parsatahmasebi and i'm currently a graduate student at the University of California, Irvine majoring in Business Analytics.
-- I’m interested in utilizing data science and machine learning to create, further develop, and provide high quality services to people.
+- I’m interested in utilizing data science and machine learning to create and further develop high quality services to make people's life easy.
 
 - Please feel free to reach out to me via parsats@uci.edu
 
