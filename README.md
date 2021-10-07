@@ -1,4 +1,4 @@
--Hi, I’m @parsatahmasebi. I recently graduated from UC, Irvine's Master of Science in Business Analytics.
+-Hi, I’m @parsatahmasebi. I recently graduated from UC, Irvine's Master of Science in Business Analytics program.
 
 -I’m interested in utilizing data science and machine learning to create and further develop high quality products and services to make people's life easy.
 
